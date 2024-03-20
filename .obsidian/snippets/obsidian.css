@@ -8,12 +8,17 @@ table {
 	/* box-shadow: 0 0 20px rgba(0, 0, 0, 0.15); */
    
 }
-th,
+th{
+    border: 0 none;
+	line-height: 1.1;
+
+}
+
 td {
 	border: 0 none;
 	line-height: 1.1;
-    padding-left: 20px !important;
-    padding-right: 20px !important;
+    padding-left: 10px !important;
+    padding-right: 50px !important;
 
 }
 
