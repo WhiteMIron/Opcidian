@@ -35,11 +35,11 @@
         "currentTab": 1
       },
       {
-        "id": "290dd24659f5f51e",
+        "id": "a0e61e97e03e36b3",
         "type": "tabs",
         "children": [
           {
-            "id": "ba76555e3ad05938",
+            "id": "38ec58bd7a969e4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -178,7 +178,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f10d24303d20cb54",
+  "active": "38ec58bd7a969e4c",
   "lastOpenFiles": [
     "README.md",
     "마크다운연습/마크다운 연습.md",
