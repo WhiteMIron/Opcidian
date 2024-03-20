@@ -23,10 +23,10 @@ table > tbody > tr:last-child > th {
 	border-bottom: 1.36px solid black;
 }
 thead th {
-    background-color: white !important;
+    background-color: rgb(34, 51, 129) !important;
     font-weight: 700;    
     padding: 8px 9px 5px 9px;
 }
 tr:nth-child(even) {
-      background-color: #2d3768 ;
+      background-color: #377037 ;
 }
