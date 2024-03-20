@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "emoji",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -179,7 +180,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "019e85cbb4bc2726",
+  "active": "f7c855320aad18b4",
   "lastOpenFiles": [
     "README.md",
     "마크다운연습/마크다운 연습.md",
