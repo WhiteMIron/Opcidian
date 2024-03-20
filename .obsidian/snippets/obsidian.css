@@ -14,12 +14,14 @@ td {
 }
 
 thead th {
-    font-weight:200  !important;
+    font-weight:400  !important;
     background-color:  #f0f6fd  !important;
     
 }
 
-
+td{
+    padding-left:10px !important;
+}
 table tr:nth-child(even) {
       background-color: #f0f6fd  ;
 }
