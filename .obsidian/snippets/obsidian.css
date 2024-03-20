@@ -2,6 +2,9 @@
     border-collapse: separate;
     border-spacing: 0;
   } */
+  /* table tr:first-child td {
+    font-weight: bold;
+} */
   /* th:first-of-type {
     border-top-left-radius: 8px;
   }
