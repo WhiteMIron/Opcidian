@@ -2,7 +2,5 @@
   "accentColor": "",
   "cssTheme": "",
   "theme": "system",
-  "enabledCssSnippets": [
-    "obsidian"
-  ]
+  "enabledCssSnippets": []
 }
