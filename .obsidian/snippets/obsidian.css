@@ -17,9 +17,7 @@ thead th {
     background-color:  #f0f6fd  !important;
 }
 
-thh {
-    color:white;
-}
+
 table tr:nth-child(even) {
       background-color: #f0f6fd  ;
 }
