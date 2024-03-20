@@ -2,7 +2,7 @@
     border-collapse: separate;
     border-spacing: 0;
   }
-  th:first-of-type {
+  /* th:first-of-type {
     border-top-left-radius: 8px;
   }
   th:last-of-type {
@@ -13,7 +13,7 @@
   }
   tr:last-of-type td:last-of-type {
     border-bottom-right-radius: 8px;
-  }
+  } */
   
   :root :is(td, th) {
     border-width: 0 var(--table-border-width) var(--table-border-width) 0;
