@@ -147,7 +147,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,7 +197,7 @@
       }
     ]
   },
-  "active": "f10d24303d20cb54",
+  "active": "bda39969bbefb06e",
   "lastOpenFiles": [
     "README.md",
     "마크다운연습/마크다운 연습.md",
