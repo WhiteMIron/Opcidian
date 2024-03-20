@@ -1,27 +1,32 @@
-
-/* --------------------------------------------   */
- table {
-    border-collapse: separate;
-    border: solid #b3b3b3 1px;
-    border-radius: 6px;
-    border-spacing: 0px;
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+	width: auto;
+	/*max-width: 100%;*/
+	border-top: 2.27px solid black;
+	border-bottom: 2.27px solid black;
+	overflow-x: auto;	
+	box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
 }
- table > tbody > tr > td {
-    border-bottom: 1px solid #ccccccbb;
+th,
+td {
+	border: 0 none;
+	padding: 0.51rem;
+	line-height: 1.1;
 }
- table > tbody > tr:last-child > td {
-    border-bottom: thin #ccccccbb;
+table > tbody > tr:first-child > td,
+table > tbody > tr:first-child > th {
+	border-top: 1.36px solid black;
 }
- table th:first-of-type{
-    border-top-left-radius: 6px;
+table > tbody > tr:last-child > td,
+table > tbody > tr:last-child > th {
+	border-bottom: 1.36px solid black;
 }
- table th:last-of-type{
-    border-top-right-radius: 6px;
+thead th {
+    background-color: white !important;
+    font-weight: 700;    
+    padding: 8px 9px 5px 9px;
 }
- table tr:last-child td:first-child {
-    border-bottom-left-radius: 5px;
+tr:nth-child(even) {
+      background-color: #2d3768 ;
 }
- table tr:last-child td:last-child {
-    border-bottom-right-radius: 5px;
-}
-/* --------------------------------------------   */
