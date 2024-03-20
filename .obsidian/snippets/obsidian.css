@@ -16,6 +16,7 @@ td {
 
 thead th {
     background-color:  #f0f6fd  !important;
+    /* font-weight: normal; */
     /* font-weight: 500;     */
     /* padding: 8px 9px 5px 9px; */
 }
