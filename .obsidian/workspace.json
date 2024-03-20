@@ -160,6 +160,43 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
+  "floating": {
+    "id": "4d564eb399e9ef19",
+    "type": "floating",
+    "children": [
+      {
+        "id": "d84ff31d5a75db00",
+        "type": "window",
+        "children": [
+          {
+            "id": "6ac9d826453fa84e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "684778de913ea3fc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "마크다운연습/마크다운 연습.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1739,
+        "y": -184,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "f10d24303d20cb54",
   "lastOpenFiles": [
     "README.md",
