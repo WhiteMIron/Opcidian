@@ -10,7 +10,7 @@ table {
 th,
 td {
 	border: 0 none;
-	padding: 0.55rem;
+	/* padding: 20px; */
 	line-height: 1.1;
 }
 
