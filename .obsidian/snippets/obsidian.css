@@ -17,6 +17,11 @@
   tr:last-of-type td:last-of-type {
     border-bottom-right-radius: 8px;
   } */
+
+/* 짝수 번째 행에 배경색 지정 */
+    table tr:nth-child(even) {
+        background-color: #99CCFF;
+    }
   
   :root :is(td, th) {
     border-width: 0 var(--table-border-width) var(--table-border-width) 0;
