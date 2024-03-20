@@ -2,11 +2,10 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 	width: auto;
-	/*max-width: 100%;*/
-	border-top: 2.27px solid black;
-	border-bottom: 2.27px solid black;
+	/* border-top: 2.27px solid black;
+	border-bottom: 2.27px solid black; */
 	overflow-x: auto;	
-	box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+	/* box-shadow: 0 0 20px rgba(0, 0, 0, 0.15); */
 }
 th,
 td {
@@ -16,10 +15,10 @@ td {
 }
 
 thead th {
-    background-color:  #d2e1f0  !important;
+    background-color:  #f0f6fd  !important;
     font-weight: 700;    
     padding: 8px 9px 5px 9px;
 }
 table tr:nth-child(even) {
-      background-color: #99CCFF ;
+      background-color: #f0f6fd  ;
 }
