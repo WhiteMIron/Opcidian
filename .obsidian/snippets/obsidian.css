@@ -11,6 +11,8 @@ table {
 th{
     border: 0 none;
 	line-height: 1.1;
+    padding-top : 10px !important;
+    padding-bottom : 10px !important;
 
 }
 
@@ -19,6 +21,8 @@ td {
 	line-height: 1.1;
     padding-left: 10px !important;
     padding-right: 50px !important;
+    padding-top : 10px !important;
+    padding-bottom : 10px !important;
 
 }
 
