@@ -14,19 +14,12 @@ td {
 	padding: 0.51rem;
 	line-height: 1.1;
 }
-table > tbody > tr:first-child > td,
-table > tbody > tr:first-child > th {
-	border-top: 1.36px solid black;
-}
-table > tbody > tr:last-child > td,
-table > tbody > tr:last-child > th {
-	border-bottom: 1.36px solid black;
-}
+
 thead th {
-    background-color: rgb(34, 51, 129) !important;
+    background-color:  #d2e1f0  !important;
     font-weight: 700;    
     padding: 8px 9px 5px 9px;
 }
 table tr:nth-child(even) {
-      background-color: #377037 ;
+      background-color: #99CCFF ;
 }
