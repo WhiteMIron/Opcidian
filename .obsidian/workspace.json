@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "마크다운연습/ㄹㄹ.md",
+                "file": "마크다운연습/연습.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "마크다운연습/ㄹㄹ.md",
+                "file": "마크다운연습/연습.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "마크다운연습/ㄹㄹ.md",
+                "file": "마크다운연습/연습.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "마크다운연습/ㄹㄹ.md",
+                "file": "마크다운연습/연습.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "마크다운연습/ㄹㄹ.md"
+                "file": "마크다운연습/연습.md"
               }
             }
           }
@@ -196,7 +196,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "마크다운연습/ㄹㄹ.md",
+                    "file": "마크다운연습/연습.md",
                     "mode": "source",
                     "source": false
                   }
@@ -218,7 +218,7 @@
   "active": "cf2bb4d1f1864731",
   "lastOpenFiles": [
     "README.md",
-    "마크다운연습/ㄹㄹ.md",
+    "마크다운연습/연습.md",
     "마크다운연습"
   ]
 }
