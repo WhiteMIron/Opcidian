@@ -6,6 +6,7 @@
       {
         "id": "9a8653e1f1444674",
         "type": "tabs",
+        "dimension": 38.50671140939597,
         "children": [
           {
             "id": "6cc849885951ae23",
@@ -38,6 +39,7 @@
       {
         "id": "97ab881081d68129",
         "type": "tabs",
+        "dimension": 61.493288590604024,
         "children": [
           {
             "id": "019e85cbb4bc2726",
@@ -98,8 +100,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -180,7 +181,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f7c855320aad18b4",
+  "active": "019e85cbb4bc2726",
   "lastOpenFiles": [
     "README.md",
     "마크다운연습/마크다운 연습.md",
