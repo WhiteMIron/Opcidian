@@ -1,37 +1,27 @@
-/* :root table {
+
+/* --------------------------------------------   */
+ table {
     border-collapse: separate;
-    border-spacing: 0;
-  } */
-  /* table tr:first-child td {
-    font-weight: bold;
-} */
-  /* th:first-of-type {
-    border-top-left-radius: 8px;
-  }
-  th:last-of-type {
-    border-top-right-radius: 8px;
-  }
-  tr:last-of-type td:first-of-type {
-    border-bottom-left-radius: 8px;
-  }
-  tr:last-of-type td:last-of-type {
-    border-bottom-right-radius: 8px;
-  } */
-
-/* 짝수 번째 행에 배경색 지정 */
-table th {
-    background-color: #99CCFF; /* 배경색 */
-    font-weight: bold; /* 텍스트 굵기 */
-    padding: 10px; /* 셀 내부 여백 */
-    text-align: center; /* 가운데 정렬 */
+    border: solid #b3b3b3 1px;
+    border-radius: 6px;
+    border-spacing: 0px;
 }
-
-table td {
-    background-color: #99CCFF; /* 배경색 */
-    font-weight: bold; /* 텍스트 굵기 */
-    padding: 10px; /* 셀 내부 여백 */
-    text-align: center; /* 가운데 정렬 */
+ table > tbody > tr > td {
+    border-bottom: 1px solid #ccccccbb;
 }
-  :root :is(td, th) {
-    border-width: 0 var(--table-border-width) var(--table-border-width) 0;
-  }
+ table > tbody > tr:last-child > td {
+    border-bottom: thin #ccccccbb;
+}
+ table th:first-of-type{
+    border-top-left-radius: 6px;
+}
+ table th:last-of-type{
+    border-top-right-radius: 6px;
+}
+ table tr:last-child td:first-child {
+    border-bottom-left-radius: 5px;
+}
+ table tr:last-child td:last-child {
+    border-bottom-right-radius: 5px;
+}
+/* --------------------------------------------   */
