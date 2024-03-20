@@ -10,16 +10,11 @@ table {
 th,
 td {
 	border: 0 none;
-	/* padding: 20px; */
 	line-height: 1.1;
 }
 
 thead th {
-    color :blue;
     background-color:  #f0f6fd  !important;
-    /* font-weight: normal; */
-    /* font-weight: 500;     */
-    /* padding: 8px 9px 5px 9px; */
 }
 
 table tr:nth-child(even) {
