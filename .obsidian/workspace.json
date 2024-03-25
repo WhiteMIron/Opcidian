@@ -38,6 +38,20 @@
             }
           }
         ]
+      },
+      {
+        "id": "5da922f63f2c495a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "006f2ae79b062214",
+            "type": "leaf",
+            "state": {
+              "type": "markdown-table-editor-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,21 +160,14 @@
                 "file": "마크다운연습/연습.md"
               }
             }
-          },
-          {
-            "id": "d09b6c139a5b37b4",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,10 +177,10 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "d09b6c139a5b37b4",
+  "active": "bda39969bbefb06e",
   "lastOpenFiles": [
     "마크다운연습/연습.md",
     "인텔 프로세서 라인업.md",
