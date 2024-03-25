@@ -6,7 +6,6 @@
       {
         "id": "2b1ab91cba091f22",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
             "id": "51fa1ba76d654207",
@@ -16,25 +15,6 @@
               "state": {
                 "file": "인텔 프로세서 라인업.md",
                 "mode": "preview",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "27403cd332dad999",
-        "type": "tabs",
-        "dimension": 50,
-        "children": [
-          {
-            "id": "19d6d40ac1b08aaa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "인텔 프로세서 라인업.md",
-                "mode": "source",
                 "source": false
               }
             }
@@ -125,11 +105,10 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b624a7e1d780d1c3",
+  "active": "51fa1ba76d654207",
   "lastOpenFiles": [
     "img/인텔 프로세서 라인업-20240325155200383.webp",
     "인텔 프로세서 라인업.md",
