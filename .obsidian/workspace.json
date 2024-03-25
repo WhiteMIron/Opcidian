@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 파일.md",
+                "file": "Templates/test-template.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.md",
+                "file": "Templates/test-template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.md",
+                "file": "Templates/test-template.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.md"
+                "file": "Templates/test-template.md"
               }
             }
           }
@@ -215,10 +215,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e132a014b0926cd1",
+  "active": "876bfb6f11699e89",
   "lastOpenFiles": [
     "README.md",
-    "무제 파일.md",
+    "Templates/test-template.md",
     "Templates",
     "마크다운연습/연습.md",
     "인텔 프로세서 라인업.md",
