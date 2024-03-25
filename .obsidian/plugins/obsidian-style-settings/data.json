@@ -3,6 +3,5 @@
   "minimal-style@@row-alt": true,
   "minimal-style@@table-tabular": true,
   "minimal-style@@table-numbers": false,
-  "minimal-style@@table-nowrap": false,
-  "minimal-style@@p-spacing": "1rem"
+  "minimal-style@@table-nowrap": false
 }
