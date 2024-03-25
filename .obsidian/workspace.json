@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9a8653e1f1444674",
+        "id": "0ff3bfcab9c690bc",
         "type": "tabs",
         "children": [
           {
-            "id": "6cc849885951ae23",
+            "id": "cf2bb4d1f1864731",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,13 +20,13 @@
             }
           },
           {
-            "id": "f10d24303d20cb54",
+            "id": "620177e85c39573e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "마크다운연습/연습.md",
-                "mode": "source",
+                "file": "ㅇㅇㅇㅇ.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -35,16 +35,16 @@
         "currentTab": 1
       },
       {
-        "id": "0ff3bfcab9c690bc",
+        "id": "1417366857d76428",
         "type": "tabs",
         "children": [
           {
-            "id": "cf2bb4d1f1864731",
+            "id": "acdaacb356fa5fff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "마크다운연습/연습.md",
+                "file": "ㅇㅇㅇㅇ.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "마크다운연습/연습.md",
+                "file": "ㅇㅇㅇㅇ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "마크다운연습/연습.md",
+                "file": "ㅇㅇㅇㅇ.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "마크다운연습/연습.md"
+                "file": "ㅇㅇㅇㅇ.md"
               }
             }
           }
@@ -215,10 +215,12 @@
       }
     ]
   },
-  "active": "cf2bb4d1f1864731",
+  "active": "acdaacb356fa5fff",
   "lastOpenFiles": [
-    "README.md",
+    "ㅇㅇㅇㅇ.md",
     "마크다운연습/연습.md",
+    "README.md",
+    "시스템 엔지니어",
     "마크다운연습"
   ]
 }
