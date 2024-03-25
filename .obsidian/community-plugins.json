@@ -1,8 +1,8 @@
 [
   "obsidian-git",
   "obsidian-emoji-toolbar",
-  "obsidian-style-settings",
   "editing-toolbar",
   "table-editor-obsidian",
-  "image-converter"
+  "image-converter",
+  "obsidian-style-settings"
 ]
