@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "78aba311416a544c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MPIO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cca6f7cc34806710",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "인텔 프로세서 라인업.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "1417366857d76428",
@@ -215,8 +239,10 @@
       }
     ]
   },
-  "active": "acdaacb356fa5fff",
+  "active": "cca6f7cc34806710",
   "lastOpenFiles": [
+    "하이퍼스레드.md",
+    "MPIO.md",
     "인텔 프로세서 라인업.md",
     "마크다운연습/연습.md",
     "README.md",
