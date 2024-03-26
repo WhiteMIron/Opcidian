@@ -1,4 +1,5 @@
 {
   "attachmentFolderPath": "img",
-  "trashOption": "none"
+  "trashOption": "none",
+  "livePreview": true
 }
