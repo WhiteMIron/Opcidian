@@ -171,11 +171,10 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9f5a941c56aa517c",
+  "active": "feff99913f417922",
   "lastOpenFiles": [
     "img/인텔 프로세서 라인업-20240325155200383.webp",
     "인텔 프로세서 라인업.md",
