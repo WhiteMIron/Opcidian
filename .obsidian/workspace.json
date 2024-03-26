@@ -172,10 +172,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "feff99913f417922",
+  "active": "51fa1ba76d654207",
   "lastOpenFiles": [
-    "마크다운연습/연습.md",
+    "하이퍼스레드.md",
     "인텔 프로세서 라인업.md",
+    "마크다운연습/연습.md",
     "img/인텔 프로세서 라인업-20240325155200383.webp",
     "인텔 프로세서 라인업-20240325155024475.webp",
     "img",
@@ -189,7 +190,6 @@
     "MPIO.md",
     "Templates/test-template.md",
     "Templates",
-    "하이퍼스레드.md",
     "시스템 엔지니어",
     "마크다운연습"
   ]
