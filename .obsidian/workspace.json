@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "인텔 프로세서 라인업.md",
+                "file": "MPIO.md",
                 "mode": "preview",
                 "source": false
               }
@@ -173,12 +173,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "feff99913f417922",
+  "active": "51fa1ba76d654207",
   "lastOpenFiles": [
+    "인텔 프로세서 라인업.md",
+    "MPIO.md",
     "README.md",
     "하이퍼스레드.md",
-    "MPIO.md",
-    "인텔 프로세서 라인업.md",
     "마크다운연습/연습.md",
     "img/인텔 프로세서 라인업-20240325155200383.webp",
     "인텔 프로세서 라인업-20240325155024475.webp",
