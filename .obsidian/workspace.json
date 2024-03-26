@@ -108,6 +108,45 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "a191f3543be87e67",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "인텔 프로세서 라인업.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "41e6ac9f406f5647",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "인텔 프로세서 라인업.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "47726d12fbee9141",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "인텔 프로세서 라인업.md"
+              }
+            }
           }
         ]
       }
