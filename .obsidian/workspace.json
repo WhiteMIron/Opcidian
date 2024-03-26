@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "하이퍼스레드.md",
+                "file": "MPIO.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "하이퍼스레드.md",
+                "file": "MPIO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "하이퍼스레드.md",
+                "file": "MPIO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "하이퍼스레드.md"
+                "file": "MPIO.md"
               }
             }
           },
@@ -175,8 +175,9 @@
   },
   "active": "feff99913f417922",
   "lastOpenFiles": [
-    "MPIO.md",
+    "README.md",
     "하이퍼스레드.md",
+    "MPIO.md",
     "인텔 프로세서 라인업.md",
     "마크다운연습/연습.md",
     "img/인텔 프로세서 라인업-20240325155200383.webp",
@@ -188,7 +189,6 @@
     "Pasted image 20240325154614.png",
     "Pasted image 20240325154609.png",
     "Pasted image 20240325154605.png",
-    "README.md",
     "Templates/test-template.md",
     "Templates",
     "시스템 엔지니어",
