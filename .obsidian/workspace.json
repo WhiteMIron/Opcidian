@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c094b23e687c02eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "시스템 엔지니어/HBA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "a0a78443c76a27a2",
@@ -139,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "시스템 엔지니어/인텔 프로세서 라인업.md",
+                "file": "시스템 엔지니어/HBA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "시스템 엔지니어/인텔 프로세서 라인업.md",
+                "file": "시스템 엔지니어/HBA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "시스템 엔지니어/인텔 프로세서 라인업.md"
+                "file": "시스템 엔지니어/HBA.md"
               }
             }
           },
@@ -198,11 +210,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4b8785fbc35f5aab",
+  "active": "c094b23e687c02eb",
   "lastOpenFiles": [
+    "시스템 엔지니어/인텔 프로세서 라인업.md",
+    "시스템 엔지니어/HBA.md",
     "시스템 엔지니어/하이퍼스레드.md",
     "시스템 엔지니어/MPIO.md",
-    "시스템 엔지니어/인텔 프로세서 라인업.md",
     "README.md",
     "마크다운연습/연습.md",
     "img/인텔 프로세서 라인업-20240325155200383.webp",
