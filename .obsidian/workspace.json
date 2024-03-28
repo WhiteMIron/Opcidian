@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "시스템 엔지니어/MPIO.md",
+                "file": "시스템 엔지니어/스토리지.md",
                 "mode": "source",
                 "source": false
               }
@@ -210,7 +210,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c094b23e687c02eb",
+  "active": "feff99913f417922",
   "lastOpenFiles": [
     "시스템 엔지니어/MPIO.md",
     "시스템 엔지니어/스토리지.md",
