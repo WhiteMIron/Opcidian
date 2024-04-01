@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "시스템 엔지니어/인텔 프로세서 라인업.md",
+                "file": "시스템 엔지니어/메모리 종류.md",
                 "mode": "preview",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "시스템 엔지니어/인텔 프로세서 라인업.md",
+                "file": "시스템 엔지니어/메모리 종류.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "시스템 엔지니어/인텔 프로세서 라인업.md",
+                "file": "시스템 엔지니어/메모리 종류.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "시스템 엔지니어/인텔 프로세서 라인업.md"
+                "file": "시스템 엔지니어/메모리 종류.md"
               }
             }
           },
@@ -194,13 +194,13 @@
   },
   "active": "c094b23e687c02eb",
   "lastOpenFiles": [
+    "시스템 엔지니어/인텔 프로세서 라인업.md",
     "시스템 엔지니어/하이퍼스레드.md",
     "시스템 엔지니어/HBA.md",
     "시스템 엔지니어/MPIO.md",
     "시스템 엔지니어/메모리 종류.md",
     "시스템 엔지니어/스위치.md",
     "시스템 엔지니어/스토리지.md",
-    "시스템 엔지니어/인텔 프로세서 라인업.md",
     "마크다운연습/연습.md",
     "README.md",
     "img/인텔 프로세서 라인업-20240325155200383.webp",
