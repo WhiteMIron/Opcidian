@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "df1a68e222e2d413",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "시스템 엔지니어/메모리 종류.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -192,7 +204,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c094b23e687c02eb",
+  "active": "df1a68e222e2d413",
   "lastOpenFiles": [
     "시스템 엔지니어/스위치.md",
     "시스템 엔지니어/인텔 프로세서 라인업.md",
