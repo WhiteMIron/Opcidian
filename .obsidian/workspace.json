@@ -66,9 +66,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "07be163a8a6b4a03",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -204,7 +214,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "df1a68e222e2d413",
+  "active": "07be163a8a6b4a03",
   "lastOpenFiles": [
     "시스템 엔지니어/스위치.md",
     "시스템 엔지니어/인텔 프로세서 라인업.md",
